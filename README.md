@@ -1,8 +1,8 @@
-#Internet Download Manager (IDM)
+#Internet Download Manager (IDM)#
 
-#####Multi Threaded IDM Using JavaFX
+#####Multi Threaded IDM Using JavaFX#####
 
-##Features 
+##Features ##
 
 * Using **MySQL** database for saving download details
 
@@ -13,7 +13,7 @@
 * Supports _**any**_ file type
 
 
-##Previews
+##Previews##
 
 _**Main Window**_
 
@@ -23,7 +23,7 @@ _**Add Url Window**_
 
 ![Add Url](./previews/2.jpg)
 
-##Database
+##Database##
 
 * Run `database/db.sql` in **MySQLWorkbench** for creating download table
  
