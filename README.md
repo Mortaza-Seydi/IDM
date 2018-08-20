@@ -1,8 +1,6 @@
 #Internet Download Manager (IDM)
+
 #####Multi Threaded IDM Using JavaFX
-
-
-
 
 ##Features 
 
@@ -13,8 +11,6 @@
 * User can _**pause**_, _**resume**_, _**restart**_ and _**delete**_ downloads
 
 * Supports _**any**_ file type
-
-
 
 
 ##Previews
