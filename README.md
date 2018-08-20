@@ -23,7 +23,7 @@ _**Add Url Window**_
 
 ![Add Url](./previews/2.jpg)
 
-## Database##
+## Database
 
 * Run `database/db.sql` in **MySQLWorkbench** for creating download table
  
