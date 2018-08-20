@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="235.0" prefWidth="562.0" stylesheets="@../assets/MistSilverSkin.css" xmlns="http://javafx.com/javafx/8.0.127" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.controllersAndFxml.AddUrlController">
+   <children>
+      <Button id="Download" layoutX="132.0" layoutY="142.0" mnemonicParsing="false" onAction="#startDownload" prefHeight="72.0" prefWidth="74.0" />
+      <Button id="DownloadAdd" layoutX="338.0" layoutY="142.0" mnemonicParsing="false" onAction="#addDownloadToList" prefHeight="72.0" prefWidth="74.0" />
+      <TextField fx:id="urlField" layoutX="132.0" layoutY="34.0" prefHeight="23.0" prefWidth="280.0" />
+      <TextField fx:id="directory" layoutX="132.0" layoutY="95.0" prefHeight="23.0" prefWidth="280.0" />
+      <Label layoutX="42.0" layoutY="37.0" text="URL" />
+      <Label layoutX="15.0" layoutY="97.0" text="Save Directory" />
+      <Button layoutX="450.0" layoutY="93.0" mnemonicParsing="false" onAction="#showFileChooser" text="Browse" />
+   </children>
+</AnchorPane>
